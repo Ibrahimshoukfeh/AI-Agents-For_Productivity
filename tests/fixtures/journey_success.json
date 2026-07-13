@@ -1,0 +1,33 @@
+{
+  "journeys": [
+    {
+      "duration": 18,
+      "startDateTime": "2026-06-23T08:15:00",
+      "arrivalDateTime": "2026-06-23T08:33:00",
+      "legs": [
+        {
+          "departurePoint": {
+            "commonName": "London Waterloo"
+          },
+          "arrivalPoint": {
+            "commonName": "Camden Town Underground Station"
+          },
+          "instruction": {
+            "summary": "Take the Northern line northbound towards Edgware"
+          }
+        },
+        {
+          "departurePoint": {
+            "commonName": "Camden Town Underground Station"
+          },
+          "arrivalPoint": {
+            "commonName": "Camden Town"
+          },
+          "instruction": {
+            "summary": "Get off at Camden Town Underground Station"
+          }
+        }
+      ]
+    }
+  ]
+}
